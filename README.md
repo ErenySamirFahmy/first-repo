@@ -12,4 +12,4 @@ The idea of project is creating a dynamic navigation bar and section activation 
 ## *Sources:*
 - w3schools
 - mozilla
-- stackoverflow
+- stackoverflow: https://stackoverflow.com/questions/7717527/smooth-scrolling-when-clicking-an-anchor-link
