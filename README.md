@@ -1,11 +1,11 @@
-# landing page
+# Landing page
 
-## *project description:*
+## *Project description:*
 This is my 1st project.<br>
 I used html for structure, css for styling and js to make the page dynamic.<br>
 The idea of project is creating a dynamic navigation bar and section activation on scroll.<br>
 
-## *contents:*
+## *Contents:*
 - header
 - navigation bar
 - main (4 sections)
@@ -14,7 +14,7 @@ The idea of project is creating a dynamic navigation bar and section activation 
 ## *Dependencies:*
 all os version
 
-## *Technologies:*
+## *Technologies used:*
 html , css , javascript
 
 ## *Sources:*
